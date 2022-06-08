@@ -7,7 +7,7 @@
 📄 Please have a look at my [personal site](https://miguelaenlle.com/) or [Resume](https://miguelaenlle.com/resume/Miguel%20Aenlle%20Developer%20Resume.pdf) for more details about me. I'm open to feedback or suggestions!
 
 # 💻 Open Source Projects
-💬 [Reddit Clone]() built using the MERN stack (coming soon)\
+💬 [Reddit Clone](https://github.com/miguelaenlle/reddit-clone-open) built using the MERN stack\
 💼 [Code](https://github.com/miguelaenlle/portfolio-v2) for my [portfolio site](https://miguelaenlle.com/)\
 📰 [Scraper](https://github.com/miguelaenlle/Scraping-Tools-Benzinga) for my Kaggle Database [Daily Financial News for 6000+ Stocks](https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests)\
 📈 [Reuters Stock News Scraping Tools](https://github.com/miguelaenlle/Reuters-Scraping)
