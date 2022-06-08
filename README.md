@@ -8,6 +8,7 @@
 
 # 💻 Open Source Projects
 💬 [Reddit Clone]() built using the MERN stack (coming soon)\
+💼 [Code](https://github.com/miguelaenlle/portfolio-v2) for my [portfolio site](https://miguelaenlle.com/)\
 📰 [Scraper](https://github.com/miguelaenlle/Scraping-Tools-Benzinga) for my Kaggle Database [Daily Financial News for 6000+ Stocks](https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests)\
 📈 [Reuters Stock News Scraping Tools](https://github.com/miguelaenlle/Reuters-Scraping)
 
