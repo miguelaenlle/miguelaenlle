@@ -1,10 +1,10 @@
 # 👋 Hey there! I'm Miguel
 
 # 💫About Me :
-🔭 Currently working on an open source portfolio building platform (coming soon)
-🌱 Learning E2E testing and SQL
-💬 Feel free to reach out to me for consulting and volunteering, or just interesting discussion
-📄 Please have a look at my [personal site](https://miguelaenlle.com/) or [Resume](https://miguelaenlle.com/resume/Miguel%20Aenlle%20Developer%20Resume.pdf) for more details about me. I'm open to feedback or suggestions!
+🔭 Currently working on an open source portfolio building platform (coming soon)\
+🌱 Learning E2E testing and SQL\
+💬 Feel free to reach out to me for consulting and volunteering, or just interesting discussion\
+📄 Please have a look at my [personal site](https://miguelaenlle.com/) or [Resume](https://miguelaenlle.com/resume/Miguel%20Aenlle%20Developer%20Resume.pdf) for more details about me. I'm open to feedback or suggestions!\
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-aenlle-2265a21b1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/n_exus) 
