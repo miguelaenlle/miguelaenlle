@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Miguel
 
 # 💫About Me :
-🔭 Currently working on client projects and building awesome CS experiences at JHHS!\
+🔭 Currently building internal software at Normandy Remodeling and PlatformsAI, an AI-powered tool to build custom data management platforms in minutes!\
 💬 Feel free to reach out to me for consulting and volunteering, or just interesting discussion\
 📄 Please have a look at my [personal site](https://miguelaenlle.com/) or [Resume](https://miguelaenlle.com/resume/Miguel%20Aenlle%20Developer%20Resume.pdf) for more details about me. I'm open to feedback or suggestions!
 
