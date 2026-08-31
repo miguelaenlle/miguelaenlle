@@ -16,7 +16,7 @@ I’m always happy to connect! Feel free to reach out about projects, research, 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miguelaenlle.com/)
 [![Email](https://img.shields.io/badge/Email-E84A27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maenlle2@illinois.edu)
 
-# Skills
+# 🛠️ Skills
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgOGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zdjRjMCAxLjctMy42IDMtOCAzcy04LTEuMy04LTN6Ii8%2BPHBhdGggZD0iTTQgMTVjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM3Y0YzAgMS43LTMuNiAzLTggM3MtOC0xLjMtOC0zeiIvPjwvc3ZnPg%3D%3D&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
