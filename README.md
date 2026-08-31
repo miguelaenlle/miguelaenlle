@@ -27,5 +27,3 @@ Previously, I've worked on multi-agent systems at Adobe, vision-LLM grading infr
 ### 🔗 More
 
 🌐 [miguelaenlle.com](https://miguelaenlle.com/) &nbsp;·&nbsp; 📄 [Resume](https://miguelaenlle.com/resume/Miguel%20Aenlle%20Developer%20Resume.pdf) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/miguel-aenlle/)
-
-Feel free to reach out about AI systems, ML infrastructure, distributed systems, research, or interesting engineering projects.
