@@ -10,7 +10,7 @@ I'm a Computer Science student at the University of Illinois Urbana-Champaign in
 
 Previously, I've worked on multi-agent systems at Adobe, vision-LLM grading infrastructure at PrairieLearn, and computer vision research through Google Summer of Code.
 
-I’m always happy to connect—feel free to reach out about projects, research, or opportunities.
+I’m always happy to connect! Feel free to reach out about projects, research, or opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-aenlle/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miguelaenlle.com/)
