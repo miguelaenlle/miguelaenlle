@@ -14,7 +14,7 @@ I’m always happy to connect! Feel free to reach out about projects, research, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-aenlle/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miguelaenlle.com/)
-[![Email](https://img.shields.io/badge/Email-E84A27?style=for-the-badge)](mailto:maenlle2@illinois.edu)
+[![Email](https://img.shields.io/badge/Email-E84A27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maenlle2@illinois.edu)
 
 ### Technologies
 
