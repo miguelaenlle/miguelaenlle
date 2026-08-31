@@ -1,13 +1,12 @@
 # 👋 Hey, I'm Miguel
 
-I'm a Computer Science student at the University of Illinois Urbana-Champaign interested in AI systems, distributed systems, and cloud infrastructure.
+I'm a Computer Science student at the University of Illinois Urbana-Champaign interested in applied AI/ML, distributed systems, and cloud infrastructure.
 
 Currently, I'm:
 
-- 🤖 Building agentic systems for course authoring, debugging, and analytics at [PrairieLearn](https://www.prairielearn.com/)
-- 🔬 Researching agentic optimization of LLM inference systems, including scheduling, routing, and autoscaling
-- ⚙️ Building [OptiTrain](https://github.com/miguelaenlle/optitrain), an experimental distributed training and inference system
-- 🧭 Exploring agentic RL, ML systems, distributed computing, and LLM inference
+- 🤖 Building cloud-based, sandboxed agents for course development and analytics at [PrairieLearn](https://www.prairielearn.com/)
+- 🔬 Conducting ML systems, autoresearch, and reinforcement learning research at UIUC
+- ⚙️ Building [OptiTrain](https://github.com/miguelaenlle/optitrain), an open-source distributed training and inference system
 
 Previously, I've worked on multi-agent systems at Adobe, vision-LLM grading infrastructure at PrairieLearn, and computer vision research through Google Summer of Code.
 
