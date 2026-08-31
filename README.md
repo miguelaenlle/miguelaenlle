@@ -4,13 +4,13 @@ I'm a Computer Science student at the University of Illinois Urbana-Champaign in
 
 **Currently, I'm:**
 
-- 🤖 Building cloud-based coding agents for course development and analytics at PrairieLearn
-- 🔬 Conducting research into LLM GPU cluster optimization with agentic autoresearch at UIUC SSAIL
+- 🤖 Engineering cloud-based, sandboxed coding agents for course development and analytics at PrairieLearn
+- 🔬 Researching agentic approaches to LLM inference and GPU cluster optimization at UIUC SSAIL
 - ⚙️ Creating [OptiTrain](https://github.com/miguelaenlle/optitrain), an open-source distributed LLM training and inference system
 
-Previously, I've worked on multi-agent systems at Adobe, vision-LLM grading infrastructure at PrairieLearn, and computer vision research through Google Summer of Code.
+Previously, I built multi-agent systems at Adobe, vision-LLM grading infrastructure at PrairieLearn, and computer vision systems through Google Summer of Code.
 
-Always happy to connect! Feel free to reach out about projects, research, or opportunities.
+I'm always happy to connect! Feel free to reach out about projects, research, or opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-aenlle/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miguelaenlle.com/)
