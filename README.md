@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Illinois Urbana-Champaign in
 
 Currently, I'm:
 
-- 🤖 Building cloud-based, sandboxed coding agents for course development and analytics at PrairieLearn
+- 🤖 Building cloud-based, sandboxed agents for course development and analytics at PrairieLearn
 - 🔬 Conducting ML systems, autoresearch, and reinforcement learning research at UIUC SSAIL
 - ⚙️ Building [OptiTrain](https://github.com/miguelaenlle/optitrain), an open-source distributed training and inference system
 
